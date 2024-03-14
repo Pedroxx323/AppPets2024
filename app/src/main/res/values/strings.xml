@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PetsApp</string>
+    <string name="insira_o_nome_do_usuario">Insira o nome do usuário</string>
+    <string name="insira_o_a_senha_do_usuario">Insira o a senha do usuário</string>
+    <string name="n_o_tem_cadastro_clique_aqui">Não tem cadastro? Clique aqui.</string>
+    <string name="entrar">entrar</string>
+    <string name="sair">Sair</string>
+</resources>
